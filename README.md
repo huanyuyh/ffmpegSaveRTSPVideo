@@ -1,0 +1,2 @@
+# ffmpegSaveRTSPVideo
+一个嵌入式开发板，可以向电脑进行视频推流，有一个需求就是pc保存1分钟的视频-所以写了这个python脚本
